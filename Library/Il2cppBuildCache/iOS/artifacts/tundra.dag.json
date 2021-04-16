@@ -1,0 +1,158 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1,
+        2,
+        3
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp H:/Unity_Project/unity_vtuber_simulationgame/Library/Il2cppBuildCache/iOS/il2cppOutput",
+      "Action": "H:\\2020.3.1f1\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --additional-cpp=H:/Unity_Project/unity_vtuber_simulationgame/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityClassRegistration.cpp --additional-cpp=H:/Unity_Project/unity_vtuber_simulationgame/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityICallRegistration.cpp --incremental-g-c-time-slice=3 --avoid-dynamic-library-copy --profiler-report --map-file-parser=H:/2020.3.1f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe --directory=H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed --generatedcppdir=H:/Unity_Project/unity_vtuber_simulationgame/Library/Il2cppBuildCache/iOS/il2cppOutput",
+      "Inputs": [
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/Mono.Security.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/mscorlib.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/System.Configuration.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/System.Core.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/System.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/System.Xml.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/Unity.2D.IK.Runtime.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.Advertisements.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.GameCenterModule.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.JSONSerializeModule.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.UnityConnectModule.dll",
+        "H:/Unity_Project/unity_vtuber_simulationgame/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestModule.dll"
+      ],
+      "Outputs": [],
+      "TargetDirectories": [
+        "H:/Unity_Project/unity_vtuber_simulationgame/Library/Il2cppBuildCache/iOS/il2cppOutput"
+      ],
+      "PassIndex": 0,
+      "Deps": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    },
+    {
+      "Annotation": "Copy Additional C++ File H:/Unity_Project/unity_vtuber_simulationgame/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityClassRegistration.cpp",
+      "Action": "copy \"H:\\Unity_Project\\unity_vtuber_simulationgame\\Library\\Il2cppBuildCache\\iOS\\additionalCppFiles\\UnityClassRegistration.cpp\" \"H:\\Unity_Project\\unity_vtuber_simulationgame\\Library\\Il2cppBuildCache\\iOS\\il2cppOutput\\UnityClassRegistration.cpp\" && copy /b \"H:\\Unity_Project\\unity_vtuber_simulationgame\\Library\\Il2cppBuildCache\\iOS\\il2cppOutput\\UnityClassRegistration.cpp\" +,, \"H:\\Unity_Project\\unity_vtuber_simulationgame\\Library\\Il2cppBuildCache\\iOS\\il2cppOutput\\UnityClassRegistration.cpp\" ",
+      "Inputs": [
+        "H:/Unity_Project/unity_vtuber_simulationgame/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityClassRegistration.cpp"
+      ],
+      "Outputs": [
+        "H:/Unity_Project/unity_vtuber_simulationgame/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityClassRegistration.cpp"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 2
+    },
+    {
+      "Annotation": "Copy Additional C++ File H:/Unity_Project/unity_vtuber_simulationgame/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityICallRegistration.cpp",
+      "Action": "copy \"H:\\Unity_Project\\unity_vtuber_simulationgame\\Library\\Il2cppBuildCache\\iOS\\additionalCppFiles\\UnityICallRegistration.cpp\" \"H:\\Unity_Project\\unity_vtuber_simulationgame\\Library\\Il2cppBuildCache\\iOS\\il2cppOutput\\UnityICallRegistration.cpp\" && copy /b \"H:\\Unity_Project\\unity_vtuber_simulationgame\\Library\\Il2cppBuildCache\\iOS\\il2cppOutput\\UnityICallRegistration.cpp\" +,, \"H:\\Unity_Project\\unity_vtuber_simulationgame\\Library\\Il2cppBuildCache\\iOS\\il2cppOutput\\UnityICallRegistration.cpp\" ",
+      "Inputs": [
+        "H:/Unity_Project/unity_vtuber_simulationgame/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityICallRegistration.cpp"
+      ],
+      "Outputs": [
+        "H:/Unity_Project/unity_vtuber_simulationgame/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityICallRegistration.cpp"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 3
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../Temp/StagingArea/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../Temp/StagingArea/Data/Managed"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
